@@ -10,7 +10,7 @@ This project demonstrates frontend architecture, state management, UI design, an
 ## 🚀 Live Demo (Optional)
 
 Add your deployed link here:
-finance-dashboard-1.vercel.app
+[finance-dashboard-1.vercel.app](https://finance-dashboard-1.vercel.app/)
 
 ---
 
